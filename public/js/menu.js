@@ -11,7 +11,7 @@
   menuElement.addEventListener('transitionend', onTransitionEnd, false);
 
    //To show menu
-//    console.log("hi added");
+   console.log("hi added");
   function showMenu() {
     menuElement.style.transform = "translateX(0)";
     menuElement.classList.add('menu--show');
