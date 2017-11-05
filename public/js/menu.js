@@ -26,6 +26,7 @@
   }
 
   var touchStartPoint, touchMovePoint;
+  console.log("hi added")
 
   /*Swipe from edge to open menu*/
 
