@@ -78,6 +78,7 @@
   // Get the commits Data from the Web Storage
   function fetchCommitsFromLocalStorage(data) {
     var localData = JSON.parse(data);
+    console.log("hi i am dere");
 
     app.spinner.setAttribute('hidden', true); //hide spinner
 
