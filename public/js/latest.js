@@ -106,5 +106,6 @@
   }
   else {
     toast("We can't cache your app data yet..");
+    console.log("hi in else");
   }
 })();
