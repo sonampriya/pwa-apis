@@ -1,5 +1,5 @@
 {
-  "name": "PWA - Commits",
+  "name": "PWA - Commits",  
   "short_name": "PWA",
   "description": "Progressive Web Apps for Resources I like",
   "start_url": "./index.html?utm=homescreen",
