@@ -12,7 +12,7 @@
     toast('Fetching latest data...');
     fetchCommits();
     console.log("Getting fresh data!!!");
-//     console.log("hi i am here")
+    console.log("hi i am here")
   });
 
   var commitContainer = ['.first', '.second', '.third', '.fourth', '.fifth'];
