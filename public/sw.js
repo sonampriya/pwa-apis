@@ -7,8 +7,6 @@ var filesToCache = [
     './images/Home.svg',
     './images/ic_refresh_white_24px.svg',
     './images/profile.png',
-    './images/push-off.png',
-    './images/push-on.png',
     './js/app.js',
     './js/menu.js',
     './js/offline.js',
