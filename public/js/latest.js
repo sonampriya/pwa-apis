@@ -11,7 +11,7 @@
     // Get fresh, updated data from Github whenever you are clicked
     toast('Fetching latest data...');
     fetchCommits();
-//          console.log("Getting fresh data!!!");
+          console.log("Getting fresh data!!!");
 //     console.log("hi i am here")
   });
 
