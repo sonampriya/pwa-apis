@@ -1,4 +1,4 @@
-var cacheName = 'pwa-commits-v3';   
+var cacheName = 'pwa-commits-v3';  
 
 var filesToCache = [
     './',
