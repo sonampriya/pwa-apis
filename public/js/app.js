@@ -1,4 +1,4 @@
-(function() {
+(function() {   
   'use strict';
 
   // ////TODO add service worker code here
