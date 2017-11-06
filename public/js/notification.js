@@ -3,7 +3,7 @@
 
   //Push notification button
   var fabPushElement = document.querySelector('.fab__push');
-  var fabPushImgElement = document.querySelector('.fab__image');
+  //var fabPushImgElement = document.querySelector('.fab__image');
   
   //To check `push notification` is supported or not
   function isPushSupported() {
@@ -102,14 +102,14 @@
   function changePushStatus(status) {
     fabPushElement.dataset.checked = status;
     fabPushElement.checked = status;
-    if (status) {
-      fabPushElement.classList.add('active');
-      fabPushImgElement.src = '../images/push-on.png';
-    }
-    else {
-     fabPushElement.classList.remove('active');
-     fabPushImgElement.src = '../images/push-off.png';
-    }
+//     if (status) {
+//       fabPushElement.classList.add('active');
+// //       fabPushImgElement.src = '../images/push-on.png';
+//     }
+//     else {
+//      fabPushElement.classList.remove('active');
+// //      fabPushImgElement.src = '../images/push-off.png';
+//     }
   }
 
   //Click event for subscribe push
