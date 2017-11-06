@@ -87,7 +87,7 @@ self.addEventListener('push', function(event) {
 
 self.addEventListener('notificationclick', function(event) {
 
-  var url = './latest.html';
+  var url = 'https://sonampriya.github.io/pwa-apis/public/latest.html';
 
   event.notification.close(); //Close the notification
 
